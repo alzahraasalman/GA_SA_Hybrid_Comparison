@@ -1,0 +1,52 @@
+# ROOMS
+d1 250 0
+d2 100 0
+d3 100 0
+d34 40 1
+d35 40 1
+d41 40 1
+spelhallen 30 2
+sporthallen 30 2
+musiksalen 20 2
+konsthallen 20 2
+matsalen 30 2
+e1 250 0
+e34 30 1
+e35 35 1
+e36 45 1
+gra 20 2
+violett 25 2
+orange 30 2
+rod 30 2
+f1 300 0
+f2 200 0
+# COURSES
+sf1625 2 1 0
+sf1626 2 0 0
+sf1604 1 0 0
+sf1901 1 0 1
+dn1240 1 1 1
+dd1361 0 0 2
+is1500 1 0 1
+dd1339 1 1 1
+dd1352 1 2 1
+dd1361 1 1 0
+# LECTURERS
+tommyekola sf1625
+karimdaho sf1625
+mattiasdahl sf1626
+olofheden sf1604
+tatjanapavlenko sf1901
+jesperoppelstrup dn1240
+brianye dd1361
+patrikackland dd1361
+fredriklrlundevall is1500
+stefannilsson dd1339
+viggokann dd1352
+karlmeinke dd1361
+# STUDENTGROUPS
+cdate1 200 sf1625 dd1339 sf1604
+cdate2 100 sf1901 dd1361 is1500
+cdate3 70 dd1352 dd1361
+cdate4 60 dd1361 is1500 
+cdate5 50 sf1625 sf1604 sf1901
